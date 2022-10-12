@@ -6,13 +6,13 @@
 
 ### SECRETS COPY HERE AND PUT THERE VALUE ☟︎︎︎☟︎︎︎☟︎︎︎
 
-``BOT_REPO``
+``BOT_REPO``https://github.com/123njjakhar/itsnj
 
-``GIT_EMAIL``
+``GIT_EMAIL``jakharnaveen898@gmail.com
 
-``GIT_NAME``
+``GIT_NAME``123njjakhar
 
-``GIT_TOKEN``
+``GIT_TOKEN``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
 
 
 𝐀 𝐍𝐄𝐖 𝐒𝐄𝐑𝐕𝐄𝐑 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐑𝐉
